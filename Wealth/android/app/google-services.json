@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753240312357",
+    "project_id": "wealth-ltd",
+    "storage_bucket": "wealth-ltd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753240312357:android:5bea4428833a377ad38dcc",
+        "android_client_info": {
+          "package_name": "com.example.wealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbWVjS-QKbMOzZ2EyxtcvfnAH8qN0j3Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
