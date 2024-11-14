@@ -1,7 +1,6 @@
-# W# (WinHash) Manipal Hackathon 2024 
-**Team Name:** W# (WinHash)
 
-**Problem Statement:** Problem ID: G1 | Mutual Funds Financial Literacy Application
+
+**Mutual Funds Financial Literacy Application** 
 ## 📜 Introduction
 Investing in mutual funds can be a great way for young adults to start their investment journey, but understanding how to choose the right fund can be challenging. Create a mobile app that simplifies the process of selecting and investing in mutual funds by making it engaging and educational. The app should feature game mechanics that allow users to simulate investing in various mutual funds, manage a virtual portfolio, and participate in investment challenges. Integrate educational content such as tutorials, quizzes, and real-world scenarios to teach key investment concepts. Include features like leaderboards, achievements, and rewards to enhance engagement.
 
